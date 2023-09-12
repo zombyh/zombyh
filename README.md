@@ -1,6 +1,6 @@
 # ☣️ Cuidado! Você esta entrando em uma zona de quarentena ☣️
 
-* 🧟‍♂️ Olá, seja bem-vindo, me chamo Marcelo, tenho 32 anos e moro em Porto Alegre — RS.
+* 🧟‍♂️ Olá, seja bem-vindo, me chamo Marcelo, tenho 32 anos e moro em Porto Alegre - RS.
 * 👩‍💻 Sou especialista em suporte de TI, e trabalho desde 2010 na área.
 * 🎓 Atualmente estou no terceiro semestre da graduação em Defesa Cibernética.
 * 🐧 Sou um grande apaixonado por Linux e usuário desde 2007, minhas distros favoritas são Void e Slackware.
