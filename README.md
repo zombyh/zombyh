@@ -1,4 +1,4 @@
-# ☣️ Cuidado! Você esta entrando em uma zona de quarentena ☣️
+# ☣️ Cuidado! Você entrou em uma zona de quarentena ☣️
 
 * 🧟‍♂️ Olá, seja bem-vindo, me chamo Marcelo, tenho 32 anos e moro em Porto Alegre - RS.
 * 👩‍💻 Sou especialista em suporte de TI, e trabalho desde 2010 na área.
